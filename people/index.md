@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="{{ "/Images/Sundar.png" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-right:         15px;margin-top: 10px">
+<img src="{{ "/Images/Sundar.png" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
     <b>Sundar Ram Naganathan</b> (Reader and principal investigator)
 </font>
@@ -22,7 +22,7 @@ find her spending time with dogs!</p>
 
 <br/>
 
-<img src="{{ "/Images/Swetha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Swetha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Swetha Nagarajan</b> (PhD student)
 </font>
@@ -40,7 +40,7 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/Neha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Neha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Neha Vats</b> (PhD student)
 </font>
@@ -60,7 +60,7 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/SUV.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/SUV.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Subhanjan Venugopal</b> (I-PhD student)
 </font>
@@ -80,7 +80,7 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/Arka.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Arka.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Arkajyoti Sanyal</b> (Postdoctoral fellow)
 </font>
