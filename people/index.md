@@ -48,7 +48,7 @@ find her spending time with dogs!</p>
 
 <br/>
 
-<img src="{{ "/Images/Nandini.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Nandini.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Nandini Bhargava</b> (I-PhD student)
 </font>
@@ -70,7 +70,7 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/Swarali.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Swarali.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Swarali Dighe</b> (Masters student)
 </font>
@@ -89,7 +89,7 @@ Arkajyoti completed his B.Sc. (hons) in microbiology from St. Xavier's College, 
 
 <br/>
 
-<img src="{{ "/Images/Ankit.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Ankit.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Ankitkumar Vishwakarma</b> (Junior Research Fellow)
 </font>
