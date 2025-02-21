@@ -82,10 +82,18 @@ find her spending time with dogs!</p>
 
 <img src="{{ "/Images/Arka.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
-        <b>Arkajyoti Sanyal</b> (Postdoctoral fellow)
+        <b>Arkajyoti Sanyal</b> (I-PhD student)
 </font>
 <p align="justify">
 Arkajyoti completed his B.Sc. (hons) in microbiology from St. Xavier's College, Kolkata. Wanting to move out of the prokaryotic system, and to follow interdisciplinary research, he joined the symmetry lab. In the lab, he's looking at convergent flows, that shape a radially symmetrical embryo into a bilaterally symmetrical animal, and how molecular gradients, cell behavior and tissue dynamics coordinate this phenomenon in explants. When he's not working, you can find him reading random stuff, doodling, watching movies or sitting on his favourite boulder by the sea-face.</p>
+
+<br/>
+
+<img src="{{ "/Images/Ankit.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
+<font color="#fc0">
+        <b>Ankitkumar Vishwakarma</b> (Junior Research Fellow)
+</font>
+<p align="justify">Ankit holds a Master's degree in Computer Vision from IISER Pune. Concurrent to his master's, he spent a year in the industry, applying image processing and machine learning techniques to industrial applications. In August 2024, he joined the Symmetry Lab, where he supports biologists in the lab in analyzing time-lapse imaging data. His work focuses on developing computational approaches to extract meaningful insights from biological images.</p>
 
 <br/>
 <br/>
