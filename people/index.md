@@ -30,7 +30,7 @@ find her spending time with dogs!</p>
 
 <br/>
 
-<img src="{{ "/Images/Siddhartha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-top: 10px">
+<img src="{{ "/Images/Siddhartha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Siddhartha Bardhan</b> (PhD student)
 </font>
