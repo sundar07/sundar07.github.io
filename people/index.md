@@ -22,7 +22,7 @@ find her spending time with dogs!</p>
 
 <br/>
 
-<img src="{{ "/Images/Swetha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Swetha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Swetha Nagarajan</b> (PhD student)
 </font>
@@ -30,7 +30,7 @@ find her spending time with dogs!</p>
 
 <br/>
 
-<img src="{{ "/Images/Siddhartha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Siddhartha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Siddhartha Bardhan</b> (PhD student)
 </font>
@@ -40,7 +40,7 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/Neha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Neha.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Neha Vats</b> (PhD student)
 </font>
@@ -48,7 +48,7 @@ find her spending time with dogs!</p>
 
 <br/>
 
-<img src="{{ "/Images/Nandini.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Nandini.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Nandini Bhargava</b> (I-PhD student)
 </font>
@@ -60,7 +60,7 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/SUV.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/SUV.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Subhanjan Venugopal</b> (I-PhD student)
 </font>
@@ -70,15 +70,17 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/Swarali.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Swarali.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Swarali Dighe</b> (Masters student)
 </font>
 <p align="justify">Swarali has always been fascinated by the interdisciplinary developmental sciences. Her research interests at the Symmetry lab include convergent extension flows during zebrafish gastrulation, and analyzing whether and how, these flows follow, disregard or perhaps even break--the left right symmetry of embryonic body plan. Outside of her workplace, Swarali enjoys sprinting, birdwatching, nature trails, photography, writing, collecting interesting stuff--and coffee!</p>
 
 <br/>
+<br/>
+<br/>
 
-<img src="{{ "/Images/Arka.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px; margin-right: 15px;margin-top: 10px">
+<img src="{{ "/Images/Arka.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left;margin-left: 15px; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Arkajyoti Sanyal</b> (Postdoctoral fellow)
 </font>
