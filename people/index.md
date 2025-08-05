@@ -70,16 +70,6 @@ find her spending time with dogs!</p>
 <br/>
 <br/>
 
-<img src="{{ "/Images/Swarali.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px;margin-right: 15px;margin-top: 10px">
-<font color="#fc0">
-        <b>Swarali Dighe</b> (Masters student)
-</font>
-<p align="justify">Swarali has always been fascinated by the interdisciplinary developmental sciences. Her research interests at the Symmetry lab include convergent extension flows during zebrafish gastrulation, and analyzing whether and how, these flows follow, disregard or perhaps even break--the left right symmetry of embryonic body plan. Outside of her workplace, Swarali enjoys sprinting, birdwatching, nature trails, photography, writing, collecting interesting stuff--and coffee!</p>
-
-<br/>
-<br/>
-<br/>
-
 <img src="{{ "/Images/Arka.jpg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:left; margin-right: 15px;margin-top: 10px">
 <font color="#fc0">
         <b>Arkajyoti Sanyal</b> (I-PhD student)
@@ -88,24 +78,12 @@ find her spending time with dogs!</p>
 Arkajyoti completed his B.Sc. (hons) in microbiology from St. Xavier's College, Kolkata. Wanting to move out of the prokaryotic system, and to follow interdisciplinary research, he joined the symmetry lab. In the lab, he's looking at convergent flows, that shape a radially symmetrical embryo into a bilaterally symmetrical animal, and how molecular gradients, cell behavior and tissue dynamics coordinate this phenomenon in explants. When he's not working, you can find him reading random stuff, doodling, watching movies or sitting on his favourite boulder by the sea-face.</p>
 
 <br/>
-
-<img src="{{ "/Images/Ankit.jpeg" | prepend: site.baseurl }}" width="200" height="250" alt="UM" style="float:right;margin-left: 15px;margin-right: 15px;margin-top: 10px">
-<font color="#fc0">
-        <b>Ankitkumar Vishwakarma</b> (Junior Research Fellow)
-</font>
-<p align="justify">Ankit holds a Master's degree in Computer Vision from IISER Pune. Concurrent to his master's, he spent a year in the industry, applying image processing and machine learning techniques to industrial applications. In August 2024, he joined the Symmetry Lab, where he supports biologists in the lab in analyzing time-lapse imaging data. His work focuses on developing computational approaches to extract meaningful insights from biological images.</p>
-
-<br/>
 <br/>
 <br/>
 
 ### [Alumni from lab](#Old-people) <br/>
 
+- Ankitkumar Vishwakarma (Junior Research Fellow, Aug 2024 - April 2025) 
+
 - Jeetnet Baar (Junior Research Fellow, July 2023 - Feb 2024)
-
-- Tamanna Balachandran (Summer intern, 2023)
-
-- Amrita Kumari (Summer intern, 2023)
-
-- Neelanshi Jain (Summer intern, 2024)
 
