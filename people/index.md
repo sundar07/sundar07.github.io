@@ -83,6 +83,8 @@ Arkajyoti completed his B.Sc. (hons) in microbiology from St. Xavier's College, 
 
 ### [Alumni from lab](#Old-people) <br/>
 
+- Swarali Dighe (Masters by Research, Aug 2022 - July 2025)
+
 - Ankitkumar Vishwakarma (Junior Research Fellow, Aug 2024 - April 2025) 
 
 - Jeetnet Baar (Junior Research Fellow, July 2023 - Feb 2024)
