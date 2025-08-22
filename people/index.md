@@ -85,7 +85,7 @@ Arkajyoti completed his B.Sc. (hons) in microbiology from St. Xavier's College, 
 
 - Swarali Dighe (Masters by Research, Aug 2022 - July 2025)
 
-- Ankitkumar Vishwakarma (Junior Research Fellow, Aug 2024 - April 2025) 
+- Ankitkumar Vishwakarma (Junior Research Fellow, Aug 2024 - April 2025) - Became a senior research associate and image analyst at Biocon Bristol Myers Squibb Research and Development Center, Bengaluru
 
-- Jeetnet Baar (Junior Research Fellow, July 2023 - Feb 2024)
+- Jeetnet Baar (Junior Research Fellow, July 2023 - Feb 2024) - Moved on to do a PhD under Dr. Qiang Liu at the University of Saskatchewan, Canada
 
