@@ -4,12 +4,12 @@ title: Publications
 ---
 
 - <a href="https://app.jove.com/t/68900/dissection-zebrafish-craniofacial-tissues-upon-staining-with-alcian" target="_blank">Dissection of Zebrafish Craniofacial Tissues upon Staining with Alcian Blue</a><br />
-Bhargava N.&#8224;, **Naganathan S.R.&#8224;**\ <br>
+Bhargava N.&#8224;, **Naganathan S.R.&#8224;** <br>
 J. Vis. Exp. (223), e68900 (2025) <br>
 &#8224; Joint corresponding author
 
 - <a href="https://app.jove.com/t/66735/light-sheet-microscopy-imaging-mounting-strategies-for-early" target="_blank">Light Sheet Microscopy Imaging and Mounting Strategies for Early Zebrafish Embryos</a><br />
-Nagarajan S.\*, Bardhan S.\*, **Naganathan S.R.**\
+Nagarajan S.\*, Bardhan S.\*, **Naganathan S.R.** <br>
 J. Vis. Exp. (209), e66735 (2024)
 
 - <a href="https://portlandpress.com/biochemsoctrans/article/doi/10.1042/BST20230173/234414" target="_blank">An emerging role for tissue plasticity in developmental precision</a><br />
