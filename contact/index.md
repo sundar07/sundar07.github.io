@@ -22,7 +22,8 @@ Contact details of up to 4 referees (please provide at least 2 names)
 
 <strong>Funding and other details:</strong><br>
 The appointment will be renewed yearly subject to an annual evaluation. The position is funded up to April 2028.
-The salary is Rs. 58,000 + 27% HRA per month for the duration of the project.
+The salary is Rs. 58,000 + 27% HRA per month for the duration of the project.<br>
+
 <strong>Important:</strong> Accomodation is not included and HRA will be provided.
 
 <p style="font-size: 25px;"><u><strong> Ph.D and I-Ph.D </strong></u></p>
