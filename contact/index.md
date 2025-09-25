@@ -1,8 +1,28 @@
 ---
 layout: page
-title: Contact us
+title: Open positions
 ---
 
-- If you are interested in doing a postdoc with us, send an <a href="mailto:sundar.naganathan@tifr.res.in">email</a> with your CV including publications. <br/>
+<p style="font-size: 40px;"><u><strong> Postdoc position in Developmental Biology at the Department of Biological Sciences, TIFR </strong></u></p>
 
-- For Ph.D and I-Ph.D opportunities, visit our [Graduate School Admissions](https://www.tifr.res.in/academics/) page.
+The project involves exploring the molecular, cellular and biophysical mechanisms by which the mouth develops and opens in zebrafish embryos. 
+
+Eligibility and screening procedure:
+PhD in any discipline of Biology/ Chemistry/ Physics or MD in any branch of medicine.
+Candidates will be assessed based on their CV and recommendation letters will be sought. Shortlisted candidates will be interviewed via Zoom.  An in-person interview may also be required.
+
+How to apply:
+Please mail your CV and cover letter describing why you are interested in this position to Dr. Sundar Naganathan sundar.naganathan@tifr.res.in.  Please include a timeline of when you will be ready to start your postdoc, if selected.
+
+The CV should include: Current address, Current affiliation (or NA), Citizenship, Date of Birth
+Your previous degrees, Institution, month and year of award
+Publication record (Please divide into published/ accepted/ preprints/ in preparation)
+Contact details of up to 4 referees (please provide at least 2 names)
+
+Funding and other details:
+The appointment will be renewed yearly subject to an annual evaluation. The position is funded up to April 2028.
+The salary is Rs. 58,000 + 27% HRA per month for the duration of the project.
+Important:  Accomodation is not included and HRA will be provided.
+
+<p style="font-size: 40px;"><u><strong> Ph.D and I-Ph.D </strong></u></p>
+For Ph.D and I-Ph.D opportunities, visit our [Graduate School Admissions](https://www.tifr.res.in/academics/) page.
