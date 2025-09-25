@@ -3,7 +3,7 @@ layout: page
 title: Open positions
 ---
 
-<p style="font-size: 40px;"><u><strong> Postdoc position in Developmental Biology at the Department of Biological Sciences, TIFR </strong></u></p>
+<p style="font-size: 30px;"><u><strong> Postdoc position in Developmental Biology at the Department of Biological Sciences, TIFR </strong></u></p>
 
 The project involves exploring the molecular, cellular and biophysical mechanisms by which the mouth develops and opens in zebrafish embryos. 
 
@@ -24,5 +24,5 @@ The appointment will be renewed yearly subject to an annual evaluation. The posi
 The salary is Rs. 58,000 + 27% HRA per month for the duration of the project.
 Important:  Accomodation is not included and HRA will be provided.
 
-<p style="font-size: 40px;"><u><strong> Ph.D and I-Ph.D </strong></u></p>
+<p style="font-size: 30px;"><u><strong> Ph.D and I-Ph.D </strong></u></p>
 For Ph.D and I-Ph.D opportunities, visit our [Graduate School Admissions](https://www.tifr.res.in/academics/) page.
