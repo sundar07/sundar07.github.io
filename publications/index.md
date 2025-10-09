@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+- <a href="https://www.nature.com/articles/s41592-025-02761-9" target="_blank">Pushing the limits of automated cell tracking</a><br />
+Nagarajan S., **Naganathan S.R.** <br>
+Nature Methods (2025) <br>
+
 - <a href="https://app.jove.com/t/68900/dissection-zebrafish-craniofacial-tissues-upon-staining-with-alcian" target="_blank">Dissection of Zebrafish Craniofacial Tissues upon Staining with Alcian Blue</a><br />
 Bhargava N.&#8224;, **Naganathan S.R.&#8224;** <br>
 J. Vis. Exp. (223), e68900 (2025) <br>
