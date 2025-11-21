@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<img src="{{ "/Images/Nature-Methods-logo.png" | prepend: site.baseurl }}" width="200" height="100" alt="UM" style="float:left;margin-right: 15px"> <a href="https://www.nature.com/articles/s41592-025-02761-9" target="_blank">Pushing the limits of automated cell tracking</a><br />
+<img src="{{ "/Images/Nature-Methods-logo.png" | prepend: site.baseurl }}" width="250" height="125" alt="UM" style="float:left;margin-right: 25px"> <a href="https://www.nature.com/articles/s41592-025-02761-9" target="_blank">Pushing the limits of automated cell tracking</a><br />
 Nagarajan S., **Naganathan S.R.** <br>
 Nature Methods (2025) <br>
 
