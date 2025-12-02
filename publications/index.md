@@ -4,7 +4,7 @@ title: Publications
 ---
 
 \* Equal contribution \
-&#8224; Joint corresponding author \
+&#8224; Joint corresponding author
 
 <img src="{{ "/Images/Nature-Methods-logo1.png" | prepend: site.baseurl }}" width="200" height="80" alt="UM" style="float:left;margin-right: 25px"> <a href="https://www.nature.com/articles/s41592-025-02761-9" target="_blank">Pushing the limits of automated cell tracking</a><br />
 Nagarajan S., **Naganathan S.R.** <br>
