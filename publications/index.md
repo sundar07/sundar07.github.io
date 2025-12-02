@@ -3,28 +3,28 @@ layout: page
 title: Publications
 ---
 
-<img src="{{ "/Images/Nature-Methods-logo1.png" | prepend: site.baseurl }}" width="150" height="50" alt="UM" style="float:left;margin-right: 25px"> <a href="https://www.nature.com/articles/s41592-025-02761-9" target="_blank">Pushing the limits of automated cell tracking</a><br />
+<img src="{{ "/Images/Nature-Methods-logo1.png" | prepend: site.baseurl }}" width="200" height="80" alt="UM" style="float:left;margin-right: 25px"> <a href="https://www.nature.com/articles/s41592-025-02761-9" target="_blank">Pushing the limits of automated cell tracking</a><br />
 Nagarajan S., **Naganathan S.R.** <br>
 Nature Methods (2025) <br> <br> <br>
 
-<img src="{{ "/Images/Jove-logo.png" | prepend: site.baseurl }}" width="150" height="50" alt="UM" style="float:left;margin-right: 25px"> <a href="https://app.jove.com/t/68900/dissection-zebrafish-craniofacial-tissues-upon-staining-with-alcian" target="_blank">Dissection of Zebrafish Craniofacial Tissues upon Staining with Alcian Blue</a><br />
+<img src="{{ "/Images/Jove-logo.png" | prepend: site.baseurl }}" width="200" height="80" alt="UM" style="float:left;margin-right: 25px"> <a href="https://app.jove.com/t/68900/dissection-zebrafish-craniofacial-tissues-upon-staining-with-alcian" target="_blank">Dissection of Zebrafish Craniofacial Tissues upon Staining with Alcian Blue</a><br />
 Bhargava N.&#8224;, **Naganathan S.R.&#8224;** <br>
 J. Vis. Exp. (223), e68900 (2025) <br>
 &#8224; Joint corresponding author <br> <br> <br>
 
-<img src="{{ "/Images/Jove-logo.png" | prepend: site.baseurl }}" width="150" height="50" alt="UM" style="float:left;margin-right: 25px"> <a href="https://app.jove.com/t/66735/light-sheet-microscopy-imaging-mounting-strategies-for-early" target="_blank">Light Sheet Microscopy Imaging and Mounting Strategies for Early Zebrafish Embryos</a><br />
+<img src="{{ "/Images/Jove-logo.png" | prepend: site.baseurl }}" width="200" height="80" alt="UM" style="float:left;margin-right: 25px"> <a href="https://app.jove.com/t/66735/light-sheet-microscopy-imaging-mounting-strategies-for-early" target="_blank">Light Sheet Microscopy Imaging and Mounting Strategies for Early Zebrafish Embryos</a><br />
 Nagarajan S.\*, Bardhan S.\*, **Naganathan S.R.** <br>
 J. Vis. Exp. (209), e66735 (2024) <br> <br> <br>
 
-<img src="{{ "/Images/Biochem-Soc-Transac-logo.png" | prepend: site.baseurl }}" width="150" height="50" alt="UM" style="float:left;margin-right: 25px"> <a href="https://portlandpress.com/biochemsoctrans/article/doi/10.1042/BST20230173/234414" target="_blank">An emerging role for tissue plasticity in developmental precision</a><br />
+<img src="{{ "/Images/Biochem-Soc-Transac-logo.png" | prepend: site.baseurl }}" width="200" height="80" alt="UM" style="float:left;margin-right: 25px"> <a href="https://portlandpress.com/biochemsoctrans/article/doi/10.1042/BST20230173/234414" target="_blank">An emerging role for tissue plasticity in developmental precision</a><br />
 **Naganathan S.R.**\
 Biochem. Soc. Trans., BST20230173 (2024) <br> <br> <br>
 
-<img src="{{ "/Images/eLife-logo.png" | prepend: site.baseurl }}" width="150" height="50" alt="UM" style="float:left;margin-right: 25px"> <a href="https://elifesciences.org/reviewed-preprints/93764" target="_blank">Cell-autonomous timing drives the vertebrate segmentation clock’s wave pattern</a><br />
+<img src="{{ "/Images/eLife-logo.png" | prepend: site.baseurl }}" width="200" height="80" alt="UM" style="float:left;margin-right: 25px"> <a href="https://elifesciences.org/reviewed-preprints/93764" target="_blank">Cell-autonomous timing drives the vertebrate segmentation clock’s wave pattern</a><br />
 Rohde L.A.\*, Bercowsky-Rama A.\*, Valentin G., **Naganathan S.R.**, Desai R.A., Strnad P., Soroldoni D., Oates A.C.\
 eLife 13:RP93764 (2024) <br> <br> <br>
 
-<img src="{{ "/Images/Current-Topics-Dev-Biol-logo.png" | prepend: site.baseurl }}" width="150" height="50" alt="UM" style="float:left;margin-right: 25px"> <a href="https://www.sciencedirect.com/science/article/pii/S0070215324000036" target="_blank">Emergence of a left-right symmetric body plan in vertebrate embryos</a><br />
+<img src="{{ "/Images/Current-Topics-Dev-Biol-logo.png" | prepend: site.baseurl }}" width="200" height="80" alt="UM" style="float:left;margin-right: 25px"> <a href="https://www.sciencedirect.com/science/article/pii/S0070215324000036" target="_blank">Emergence of a left-right symmetric body plan in vertebrate embryos</a><br />
 Bardhan S.\*, Bhargava N.\*, Dighe S.\*, Vats N.\*, **Naganathan S.R.**\
 Curr. Top. Dev. Biol., 159, 310-342 (2024) <br> <br> <br>
 
